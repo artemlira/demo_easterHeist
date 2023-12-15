@@ -1,0 +1,42 @@
+crystal.png
+size:759,254
+filter:Linear,Linear
+COLLECT
+bounds:477,60,192,36
+offsets:1,1,194,38
+rotate:90
+CRYSTAL's Outer Glow
+bounds:2,2,250,266
+offsets:5,5,259,276
+rotate:90
+Layer 1
+bounds:682,82,82,69
+rotate:90
+Layer 2
+bounds:515,61,80,98
+rotate:90
+Layer 3
+bounds:615,70,65,89
+offsets:0,0,65,90
+Layer 4
+bounds:515,143,109,87
+rotate:90
+Layer 5
+bounds:645,4,64,67
+offsets:0,0,65,67
+rotate:90
+Layer 6
+bounds:604,161,76,91
+offsets:0,0,77,91
+Layer 7
+bounds:477,11,47,102
+rotate:90
+Layer 8
+bounds:682,166,75,86
+Layer 9
+bounds:581,2,57,62
+offsets:0,0,104,107
+rotate:90
+crystal
+bounds:270,28,205,224
+offsets:0,0,205,225

@@ -1,0 +1,39 @@
+kart.png
+size:838,266
+filter:Linear,Linear
+1
+bounds:235,10,194,78
+2
+bounds:431,2,186,96
+3
+bounds:707,110,34,33
+4
+bounds:760,181,71,83
+offsets:0,1,72,84
+5
+bounds:538,116,88,27
+GOLD copy's Outer Glow
+bounds:2,90,274,174
+GOLD's Outer Stroke
+bounds:538,145,220,119
+Layer 1
+bounds:2,2,231,86
+blik
+bounds:619,18,86,96
+boards
+bounds:278,100,258,164
+wheel
+bounds:707,38,65,70
+wheel2
+bounds:760,110,69,74
+offsets:1,1,70,75
+rotate:90
+wheel3
+bounds:774,35,62,73
+offsets:0,0,65,76
+wheel_hole
+bounds:560,103,11,11
+offsets:0,0,11,12
+wheel_hole2
+bounds:538,102,12,20
+rotate:90
