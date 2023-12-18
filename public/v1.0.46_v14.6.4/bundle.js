@@ -28610,278 +28610,278 @@
             },
           },
           images: {
-            'ui/slot/infinity.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/slot/input-fucus.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/slot/input.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/slot/panel.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/slot/popup_bg.jpg': { e: '.jpg_100.webp', f_e: '.f.jpg' },
-            'ui/slot/popup_gradient.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/symbol-desc-frame.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/b-gaming.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/autospin-btn-h.png': { e: '.png_80_90.png' },
+            'ui/slot/infinity.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/slot/input-fucus.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/slot/input.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/slot/panel.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/slot/popup_bg.jpg': { e: '.jpg_100.webp', f_e: '.f.jpg' },//
+            'ui/slot/popup_gradient.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/symbol-desc-frame.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/b-gaming.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/autospin-btn-h.png': { e: '.png_80_90.png' },//
             'ui/desktop-slot/autospin-btn-p.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/autospin-btn.png': { e: '.png_80_90.png' },
-            'ui/desktop-slot/autospin-collapse-button-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/autospin-collapse-button-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/autospin-collapse-button.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/autospin-count-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/desktop-slot/autospin-count-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/desktop-slot/autospin-count-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/desktop-slot/autospin-count-btn.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/desktop-slot/autospin-expand-button-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/autospin-expand-button-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/autospin-expand-button.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/desktop-slot/autospin-collapse-button-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/autospin-collapse-button-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/autospin-collapse-button.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/autospin-count-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/desktop-slot/autospin-count-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/desktop-slot/autospin-count-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/desktop-slot/autospin-count-btn.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/desktop-slot/autospin-expand-button-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/autospin-expand-button-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/autospin-expand-button.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/desktop-slot/autospin-fixed-btn-h.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/autospin-fixed-btn-p.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/autospin-fixed-btn.png': { e: '.png_80_90.png' },
-            'ui/desktop-slot/autospin-panel-bg-exp.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/desktop-slot/autospin-panel-bg.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
+            'ui/desktop-slot/autospin-panel-bg-exp.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/desktop-slot/autospin-panel-bg.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
             'ui/desktop-slot/autospin-stop-btn-h.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/autospin-stop-btn-p.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/autospin-stop-btn.png': { e: '.png_80_90.png' },
-            'ui/desktop-slot/bet-bg.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'ui/desktop-slot/bet-list-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/bet-list-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/desktop-slot/bet-list-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/desktop-slot/bet-list-btn.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/desktop-slot/close.png': { e: '.png_100_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/desktop-slot/bet-bg.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'ui/desktop-slot/bet-list-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/bet-list-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/desktop-slot/bet-list-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/desktop-slot/bet-list-btn.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/desktop-slot/close.png': { e: '.png_100_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/desktop-slot/collect-btn-h.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/collect-btn.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/gamble-btn-h.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/gamble-btn.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/history-btn-h.png': { e: '.png_80_90.png' },
-            'ui/desktop-slot/history-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/history-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/info-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/info-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/info-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/paytable-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/desktop-slot/history-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/history-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/info-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/info-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/info-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/paytable-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/desktop-slot/paytable-btn-h.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/paytable-btn-p.png': { e: '.png_80_90.png' },
-            'ui/desktop-slot/paytable-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/provability-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/provability-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/provability-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/rules-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/desktop-slot/paytable-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/provability-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/provability-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/provability-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/rules-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/desktop-slot/rules-btn-h.png': { e: '.png_80_90.png' },
-            'ui/desktop-slot/rules-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/rules-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/settings-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/settings-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/desktop-slot/settings-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/desktop-slot/rules-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/rules-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/settings-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/settings-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/desktop-slot/settings-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/desktop-slot/spin-btn-h.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/spin-btn-p.png': { e: '.png_80_90.png' },
             'ui/desktop-slot/spin-btn.png': { e: '.png_80_90.png' },
-            'ui/desktop-slot/spin-with-bonus-button.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/desktop-slot/spin-with-bonus-button.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/mobile-slot/autospin-btn-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/autospin-btn.png': { e: '.png_80_90.png' },
-            'ui/mobile-slot/autospin-count-btn.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
+            'ui/mobile-slot/autospin-count-btn.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
             'ui/mobile-slot/autospin-fixed-btn-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/autospin-fixed-btn.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/autospin-stop-btn-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/autospin-stop-btn.png': { e: '.png_80_90.png' },
-            'ui/mobile-slot/bet-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/mobile-slot/bet-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/mobile-slot/bet-select-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/mobile-slot/bet-select-btn.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/mobile-slot/btn-highlighter.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
+            'ui/mobile-slot/bet-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/mobile-slot/bet-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/mobile-slot/bet-select-btn-d.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/mobile-slot/bet-select-btn.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/mobile-slot/btn-highlighter.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
             'ui/mobile-slot/collect-btn.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/gamble-btn.png': { e: '.png_80_90.png' },
-            'ui/mobile-slot/infinity.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/mobile-slot/info-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/mobile-slot/infinity.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/mobile-slot/info-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/mobile-slot/info-btn.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/settings-btn-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/settings-btn.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/spin-btn-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/spin-btn.png': { e: '.png_80_90.png' },
-            'ui/mobile-slot/spin-with-bonus-button.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/mobile-slot/spin-with-bonus-button.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/mobile-slot/tab-btn-close-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-close.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-history-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-history.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-home-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-home.png': { e: '.png_80_90.png' },
-            'ui/mobile-slot/tab-btn-info-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/mobile-slot/tab-btn-info-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/mobile-slot/tab-btn-info-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/mobile-slot/tab-btn-info-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/mobile-slot/tab-btn-info.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-paytable-d.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-paytable-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-paytable.png': { e: '.png_80_90.png' },
-            'ui/mobile-slot/tab-btn-provability-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/mobile-slot/tab-btn-provability-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/mobile-slot/tab-btn-provability-p.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-provability.png': { e: '.png_80_90.png' },
-            'ui/mobile-slot/tab-btn-settings-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/mobile-slot/tab-btn-settings-d.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/mobile-slot/tab-btn-settings-p.png': { e: '.png_80_90.png' },
-            'ui/mobile-slot/tab-btn-settings.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/mobile-slot/tab-btn-settings.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/mobile-slot/tab-btn-snd-off.png': { e: '.png_80_90.png' },
             'ui/mobile-slot/tab-btn-snd-on.png': { e: '.png_80_90.png' },
-            'ui/slot/bar-bg.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/slot/bar-cap-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/slot/bar-cap.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/slot/bar-fill.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/slot/bar-bg.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/slot/bar-cap-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/slot/bar-cap.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/slot/bar-fill.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/slot/bet-down-btn-h.png': { e: '.png_80_90.png' },
             'ui/slot/bet-down-btn-p.png': { e: '.png_80_90.png' },
             'ui/slot/bet-down-btn.png': { e: '.png_80_90.png' },
             'ui/slot/bet-up-btn-h.png': { e: '.png_80_90.png' },
             'ui/slot/bet-up-btn-p.png': { e: '.png_80_90.png' },
-            'ui/slot/bet-up-btn.png': { e: '.png_90_90.webp', f_e: '.f.png_80_90.png' },
-            'ui/slot/bg.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/slot/check-box-e.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/slot/check-box-h.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/slot/check-box-p.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/slot/check-box.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/slot/check.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/slot/fs-click-particle.png': { e: '.png_100_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/slot/gradient.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_daimonds_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_diamonds.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_hearts.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_hearts_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_red.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_red_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_spades.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_spades_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/clubs.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/diamonds.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/hearts.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/shirt.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/spades.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/blank.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'gamble/btn_black.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_black_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_clubs.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'gamble/btn_clubs_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'distortion_map.png': { e: '.png_100_100.webp', f_e: '.f.png' },
-            'reality-check/rc-popup-close-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/slot/bet-up-btn.png': { e: '.png_90_90.webp', f_e: '.f.png_80_90.png' },//
+            'ui/slot/bg.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/slot/check-box-e.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/slot/check-box-h.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/slot/check-box-p.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/slot/check-box.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/slot/check.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/slot/fs-click-particle.png': { e: '.png_100_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/slot/gradient.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_daimonds_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_diamonds.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_hearts.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_hearts_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_red.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_red_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_spades.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_spades_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/clubs.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/diamonds.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/hearts.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/shirt.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/spades.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/blank.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'gamble/btn_black.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_black_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_clubs.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'gamble/btn_clubs_hover.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'distortion_map.png': { e: '.png_100_100.webp', f_e: '.f.png' },//
+            'reality-check/rc-popup-close-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/alert-icon.png': { e: '.png_80_90.png' },
-            'ui/arrow-up.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'ui/bar-mask.png': { e: '.png_100_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/btn-long-h.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/btn-long.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/close-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/close-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/close-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'ui/arrow-up.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'ui/bar-mask.png': { e: '.png_100_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/btn-long-h.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/btn-long.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/close-btn-h.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/close-btn-p.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/close-btn.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'ui/hand.png': { e: '.png_80_90.png' },
-            'ui/mus-off.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/mus-on.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/panel.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'ui/scroller.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/snd-off.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/snd-on.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'ui/spinner.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'WHITE_FOR_CANVAS.jpg': { e: '.jpg_100_100.webp', f_e: '.f.jpg' },
-            'symbols/crystal_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },
-            'symbols/frame-particle.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'ui/mus-off.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/mus-on.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/panel.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'ui/scroller.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/snd-off.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/snd-on.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'ui/spinner.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'WHITE_FOR_CANVAS.jpg': { e: '.jpg_100_100.webp', f_e: '.f.jpg' },//
+            'symbols/crystal_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },//
+            'symbols/frame-particle.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'symbols/gold.png': { e: '.png_80_90.png' },
             'symbols/gold_blur.png': { e: '.png_80_90.png' },
-            'symbols/green_box.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'symbols/j.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'symbols/j_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'symbols/k.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'symbols/k_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'symbols/lamp.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'symbols/lamp_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },
-            'symbols/pick.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'symbols/pick_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },
-            'symbols/q.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'symbols/q_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'symbols/scatter.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'symbols/scatter_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'symbols/wild.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'symbols/wild_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },
-            'ui/logo.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'ui/mega-bg.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'win-label.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'symbols/green_box.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'symbols/j.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'symbols/j_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'symbols/k.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'symbols/k_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'symbols/lamp.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'symbols/lamp_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },//
+            'symbols/pick.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'symbols/pick_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },//
+            'symbols/q.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'symbols/q_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'symbols/scatter.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'symbols/scatter_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'symbols/wild.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'symbols/wild_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },//
+            'ui/logo.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'ui/mega-bg.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'win-label.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'win_frame.png': { e: '.png_80_90.png' },
-            'winline0.png': { e: '.png_100.webp', f_e: '.f.png' },
-            'symbols/a.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'symbols/a_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'symbols/bag.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'symbols/bag_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },
-            'symbols/bonus.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'symbols/cart.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'symbols/cart_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },
-            'symbols/crystal.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/respin/coin_respin.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'popups/respin/counter.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/respin/feather.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/respin/glow.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },
-            'popups/respin/jackpot.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'popups/respin/light.png': { e: '.png_100.webp', f_e: '.f.png' },
-            'popups/respin/sparks.png': { e: '.png_90_90.webp', f_e: '.f.png_80_90.png' },
-            'popups/respin/sparks2.png': { e: '.png_90_90.webp', f_e: '.f.png_80_90.png' },
-            'round_gradient.png': { e: '.png_100.webp', f_e: '.f.png' },
-            'popups/bigWin/super_mega_win.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'popups/buyBonus/blik.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/buyBonus/bonus-board.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'winline0.png': { e: '.png_100.webp', f_e: '.f.png' },//
+            'symbols/a.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'symbols/a_blur.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'symbols/bag.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'symbols/bag_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },//
+            'symbols/bonus.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'symbols/cart.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'symbols/cart_blur.png': { e: '.png_80_80.webp', f_e: '.f.png' },//
+            'symbols/crystal.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/respin/coin_respin.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'popups/respin/counter.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/respin/feather.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/respin/glow.png': { e: '.png_100.webp', f_e: '.f.png_90_100.png' },//
+            'popups/respin/jackpot.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'popups/respin/light.png': { e: '.png_100.webp', f_e: '.f.png' },//
+            'popups/respin/sparks.png': { e: '.png_90_90.webp', f_e: '.f.png_80_90.png' },//
+            'popups/respin/sparks2.png': { e: '.png_90_90.webp', f_e: '.f.png_80_90.png' },//
+            'round_gradient.png': { e: '.png_100.webp', f_e: '.f.png' },//
+            'popups/bigWin/super_mega_win.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'popups/buyBonus/blik.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/buyBonus/bonus-board.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'popups/buyBonus/button-board-active.png': { e: '.png_80_90.png' },
             'popups/buyBonus/button-board-disabled.png': { e: '.png_80_90.png' },
-            'popups/buyBonus/button-board-hover-p.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'popups/buyBonus/button-board-hover-p.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'popups/buyBonus/button-board-hover.png': { e: '.png_80_90.png' },
-            'popups/buyBonus/button-board-normal-p.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'popups/buyBonus/button-board-normal-p.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'popups/buyBonus/button-board-normal.png': { e: '.png_80_90.png' },
-            'popups/buyBonus/button-bonus-active.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/buyBonus/buy-bonus-fade.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'popups/buyBonus/no-h.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/buyBonus/no.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/buyBonus/respin-symbols.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/buyBonus/yes-h.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/buyBonus/yes.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/freespins/bg.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'popups/freespins/box.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'popups/buyBonus/button-bonus-active.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/buyBonus/buy-bonus-fade.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'popups/buyBonus/no-h.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/buyBonus/no.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/buyBonus/respin-symbols.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/buyBonus/yes-h.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/buyBonus/yes.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/freespins/bg.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'popups/freespins/box.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'popups/freespins/fire.png': { e: '.png_80_90.png' },
-            'popups/freespins/fog1.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'popups/freespins/fog2.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'popups/freespins/fog3.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'popups/freespins/p1.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
-            'popups/freespins/p2.png': { e: '.png_100.webp', f_e: '.f.png' },
+            'popups/freespins/fog1.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'popups/freespins/fog2.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'popups/freespins/fog3.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'popups/freespins/p1.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
+            'popups/freespins/p2.png': { e: '.png_100.webp', f_e: '.f.png' },//
             'popups/freespins/star.png': { e: '.png_80_90.png' },
-            'popups/freespins/total-win.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'popups/respin/cart_wheel.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'paytable/free-spins.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'paytable/mega-jackpot.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'paytable/minipaytable-bg.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
-            'paytable/respin.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'popups/bigWin/big_win.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'popups/freespins/total-win.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'popups/respin/cart_wheel.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'paytable/free-spins.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'paytable/mega-jackpot.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'paytable/minipaytable-bg.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
+            'paytable/respin.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'popups/bigWin/big_win.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'popups/bigWin/glow2.png': { e: '.png_80_90.png' },
-            'popups/bigWin/mega_win.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'intro/p.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'particle-light.png': { e: '.png_100.webp', f_e: '.f.png' },
-            'intro/l.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'bg/front_frame.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'bg/fs_front_frame.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'bg/rs_reels.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'big_frame.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'blink-wave.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'blink.png': { e: '.png_100.webp', f_e: '.f.png' },
-            'fire-particle-bg.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'firework.png': { e: '.png_100.webp', f_e: '.f.png' },
-            'frame-bg.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },
+            'popups/bigWin/mega_win.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'intro/p.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'particle-light.png': { e: '.png_100.webp', f_e: '.f.png' },//
+            'intro/l.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'bg/front_frame.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'bg/fs_front_frame.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'bg/rs_reels.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'big_frame.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'blink-wave.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'blink.png': { e: '.png_100.webp', f_e: '.f.png' },//
+            'fire-particle-bg.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'firework.png': { e: '.png_100.webp', f_e: '.f.png' },//
+            'frame-bg.png': { e: '.png_100.webp', f_e: '.f.png_80_90.png' },//
             'frame.png': { e: '.png_80_90.png' },
-            'frame0001.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0002.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0003.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0004.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0005.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0006.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0007.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0008.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0009.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0010.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'frame0011.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'bg/fg/fs_front.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'bg/fg/fs_front_p.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'bg/fg/main_front.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'bg/fg/main_front_p.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
-            'bg/fg/rs_front.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'bg/freespins-bg-p.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'bg/freespins-bg.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'anticipation/spark.png': { e: '.png_100.webp', f_e: '.f.png' },
-            'bg/back_frame.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'bg/bg-p.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'bg/bg.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'bg/coin-bonus-p.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
-            'bg/coin-bonus.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },
+            'frame0001.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0002.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0003.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0004.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0005.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0006.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0007.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0008.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0009.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0010.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'frame0011.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'bg/fg/fs_front.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'bg/fg/fs_front_p.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'bg/fg/main_front.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'bg/fg/main_front_p.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
+            'bg/fg/rs_front.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'bg/freespins-bg-p.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'bg/freespins-bg.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'anticipation/spark.png': { e: '.png_100.webp', f_e: '.f.png' },//
+            'bg/back_frame.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'bg/bg-p.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'bg/bg.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'bg/coin-bonus-p.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
+            'bg/coin-bonus.jpg': { e: '.jpg_80_80.webp', f_e: '.f.jpg' },//
           },
           resources: {
             'img/coins/coin.json': {},
@@ -29047,51 +29047,51 @@
             libs: ['thing-games-utils/common', 'thing-games-utils/slots', 'thing-games-utils/gamble', '../shared'],
           },
           resourceImages: {
-            'spines/symbols/wild.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'spines/symbols/wild.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'spines/symbols/wild.atlas': {},
             'spines/symbols/tnt.png': { e: '.png_80_90.png' },
             'spines/symbols/tnt.atlas': {},
-            'spines/symbols/scatter.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'spines/symbols/scatter.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'spines/symbols/scatter.atlas': {},
             'spines/symbols/scatter_2.png': { e: '.png_80_90.png' },
-            'spines/symbols/rooster.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'spines/symbols/rooster.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'spines/symbols/rooster.atlas': {},
-            'spines/symbols/pig.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'spines/symbols/pig.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'spines/symbols/pig.atlas': {},
-            'spines/symbols/low.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'spines/symbols/low.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'spines/symbols/low.atlas': {},
-            'spines/symbols/lamp.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'spines/symbols/lamp.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'spines/symbols/lamp.atlas': {},
-            'spines/symbols/kart.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'spines/symbols/kart.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'spines/symbols/kart.atlas': {},
-            'spines/symbols/Johnny.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'spines/symbols/Johnny.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'spines/symbols/Johnny.atlas': {},
             'spines/symbols/golden_egg.png': { e: '.png_80_90.png' },
             'spines/symbols/golden_egg.atlas': {},
             'spines/symbols/free_spins.png': { e: '.png_80_90.png' },
             'spines/symbols/free_spins.atlas': {},
-            'spines/symbols/faberge_egg.png': { e: '.png_80_80.webp', f_e: '.f.png' },
+            'spines/symbols/faberge_egg.png': { e: '.png_80_80.webp', f_e: '.f.png' },//
             'spines/symbols/faberge_egg.atlas': {},
-            'spines/symbols/diamond.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'spines/symbols/diamond.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'spines/symbols/diamond.atlas': {},
             'spines/symbols/crystal.png': { e: '.png_90_100.png' },
             'spines/symbols/crystal.atlas': {},
-            'spines/symbols/chick.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
+            'spines/symbols/chick.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
             'spines/symbols/chick.atlas': {},
-            'spines/symbols/bag.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'spines/symbols/bag.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'spines/symbols/bag.atlas': {},
-            'spines/popups/total win.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'spines/popups/total win.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'spines/popups/total win.atlas': {},
-            'spines/popups/respin_start.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'spines/popups/respin_start.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'spines/popups/respin_start.atlas': {},
-            'spines/popups/jackpot.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },
+            'spines/popups/jackpot.png': { e: '.png_80_80.webp', f_e: '.f.png_65_80.png' },//
             'spines/popups/jackpot.atlas': {},
-            'spines/popups/fs_start.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'spines/popups/fs_start.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'spines/popups/fs_start.atlas': {},
-            'spines/popups/fs_start_2.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },
-            'spines/big_win.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },
+            'spines/popups/fs_start_2.png': { e: '.png_80_80.webp', f_e: '.f.png_90_100.png' },//
+            'spines/big_win.png': { e: '.png_80_80.webp', f_e: '.f.png_80_90.png' },//
             'spines/big_win.atlas': {},
-            'coins/coin.png': { e: '.png_100.webp', f_e: '.f.png' },
+            'coins/coin.png': { e: '.png_100.webp', f_e: '.f.png' },//
           },
         };
       },
@@ -72648,7 +72648,7 @@
                 (0, h.hl)(u.console, t, function (e) {
                   return function () {
                     for (var i = [], n = 0; n < arguments.length; n++) i[n] = arguments[n];
-                    v('console', { args: i, level: t }), e && e.apply(u.console, i);
+                    // v('console', { args: i, level: t }), e && e.apply(u.console, i);
                   };
                 });
             });
