@@ -1,97 +1,84 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/logoYYY.svg" />
-    <link href="#" rel="shortcut icon">
+    <link href="#" rel="shortcut icon" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="yes" name="apple-mobile-web-app-capable" />
     <title>Easiter Hest YYY Casino</title>
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.4/howler.min.js"></script> -->
     <script type="text/javascript">
-        window.__OPTIONS__ = {
-        "server_id":"demo",
-        "env":"production",
-        "csrfTokenHeaderName":"X-CSRF-Token",
-        "csrfTokenHeaderValue":"Jz224z1hhIfWpY57Kh/WNGFiypgJGoqxl+JIIsQZMXB3AjEpLEuaO/Dwuz0wqZTT2buFCdiJ4igDmD8khiLWMg==",
-        "play_token":"f5a02377-5c8e-47ba-aae5-7ade0445c7eb",
-        "game":"slots/easter_heist",
-        "identifier":"EasterHeist",
-        "title":"Easiter Hest",
-        "currency":"FUN",
-        "cache_id":"c90c1b55e2aa79f14087c05ea5c279d027c64b7476ecad7d24b285d6a551065d",
-        "cache_player_id":"45a004ddb64725244d467bd9f7202d7d3360440a9fd995fa02646796f4e6d6ad",
-        "locale":"en",
-        "api":"https://demo.bgaming-network.com/api/EasterHeist/2167587/f5a02377-5c8e-47ba-aae5-7ade0445c7eb",
+      window.__OPTIONS__ = {
+        server_id: 'demo',
+        env: 'production',
+        csrfTokenHeaderName: 'X-CSRF-Token',
+        csrfTokenHeaderValue:
+          'Jz224z1hhIfWpY57Kh/WNGFiypgJGoqxl+JIIsQZMXB3AjEpLEuaO/Dwuz0wqZTT2buFCdiJ4igDmD8khiLWMg==',
+        play_token: 'f5a02377-5c8e-47ba-aae5-7ade0445c7eb',
+        game: 'slots/easter_heist',
+        identifier: 'EasterHeist',
+        title: 'Easiter Hest',
+        currency: 'FUN',
+        cache_id: 'c90c1b55e2aa79f14087c05ea5c279d027c64b7476ecad7d24b285d6a551065d',
+        cache_player_id: '45a004ddb64725244d467bd9f7202d7d3360440a9fd995fa02646796f4e6d6ad',
+        locale: 'en',
+        api: 'https://demo.bgaming-network.com/api/EasterHeist/2167587/f5a02377-5c8e-47ba-aae5-7ade0445c7eb',
         // "rules_url":"https://rules.bgaming-network.com/en/EasterHeist.json",//original
-        "rules_url":"/rules.json",
-        "deposit_url":null,
+        rules_url: '/rules.json',
+        deposit_url: null,
         // "games_page_url":"https://www.bgaming.com/games.html",//original
-        "history_url":null,
+        history_url: null,
         // "lobby_launch_url":"https://demo.bgaming-network.com/lobby/FUN/f5a02377-5c8e-47ba-aae5-7ade0445c7eb/launch",//original
         // "game_page_url":"https://demo.bgaming-network.com/games/EasterHeist/FUN?play_token=f5a02377-5c8e-47ba-aae5-7ade0445c7eb",//original
         // "websocket_url":"wss://demo.bgaming-network.com:443/cable?currency=FUN\u0026identifier=EasterHeist\u0026play_token=f5a02377-5c8e-47ba-aae5-7ade0445c7eb\u0026server_id=demo",//original
-        "ui":{
-            "home_button":true,
-            "full_screen_prompt":true,
-            "logo":"standard",
-            "skin":"basic",
-            "skins":["basic"],
-            "brand_logo":null,
-            "brand":{"name":"","logo":null,"logo_in_game":null},
-            "autospins_dialog":"standard",
-            "max_autospin_value":null,
-            "easter_eggs_available":false,
-            "gamble_enabled":true,"show_rtp_in_rules":true},
-        // "resources_path":"https://cdn.bgaming-network.com/html/EasterHeist",//original
-        "resources_path":".",//my
-        "license_rules":{},
-        "custom":{},
-        "actions":{
-          "deposit":null,
-          "return":null,
-          "history":null},
-        "actual_currency_rate":0.0,
-        // "games_loader_source":"https://cdn.bgaming-network.com/html/EasterHeist/loader.js?1701791821",//original
-        // "games_loader_source":"./loaderExport.js",//my
-        // "game_bundle_source":"https://cdn.bgaming-network.com/html/EasterHeist/bundle.js",//original
-        // "game_bundle_source":"./public/v1.0.46_v14.6.4/bundleExport.js",//my
+        ui: {
+          home_button: true,
+          full_screen_prompt: true,
+          logo: 'standard',
+          skin: 'basic',
+          skins: ['basic'],
+          brand_logo: null,
+          brand: { name: '', logo: null, logo_in_game: null },
+          autospins_dialog: 'standard',
+          max_autospin_value: null,
+          easter_eggs_available: false,
+          gamble_enabled: true,
+          show_rtp_in_rules: true,
+        },
+        resources_path: '.', //my
+        license_rules: {},
+        custom: {},
+        actions: {
+          deposit: null,
+          return: null,
+          history: null,
+        },
+        actual_currency_rate: 0.0,
+        games_loader_source: '/loader.js', //my
+        game_bundle_source: '/v1.0.46_v14.6.4/bundle.js', //my
         // "provable_fair":{"verify_url":"https://demo.bgaming-network.com/api/games/verify"},//original
-        "math":{"rtp":{"main":96.14,"freespin_buy":96.01,"bonus_buy":95.91},
-        "gamble_limit":5624,"max_multiplier":5624,"max_win_freq":36000000},
-        "loyalty_system_options":{"currency_exponent":2,"player_id":40806538},
-        "rules":{"min_bet":10,"max_bet":2000}}    
-</script>
-<!-- <script type="text/javascript">
-window.onbeforeunload = function(event) { fetch(window.__OPTIONS__.api, { method: 'post', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ command: 'close_session' }) }) }
-</script> -->
+        math: {
+          rtp: { main: 96.14, freespin_buy: 96.01, bonus_buy: 95.91 },
+          gamble_limit: 5624,
+          max_multiplier: 5624,
+          max_win_freq: 36000000,
+        },
+        loyalty_system_options: { currency_exponent: 2, player_id: 40806538 },
+        rules: { min_bet: 10, max_bet: 2000 },
+      };
+    </script>
   </head>
   <body>
     <div class="preloader">
-<div class="preloader_figure"></div>
-<p class="preloader_label">
-Loading
-</p>
-</div>
-<!-- <script src="https://cdn.bgaming-network.com/html/EasterHeist/loader.js?1701791821" crossorigin="anonymous"></script> -->
-<script src="/loader.js" crossorigin="anonymous"></script>
-<script src="/v1.0.46_v14.6.4/bundle.js" crossorigin="anonymous"></script>
-
-<!-- <script type="text/javascript">
-  document.write('\x3Cscript src="./bundleNew.js" crossorigin="anonymous">\x3C/script>');
-</script> -->
-
-<!-- <script type="text/javascript">
-document.write('\x3Cscript src="' + window.__OPTIONS__.game_bundle_source + '" crossorigin="anonymous">\x3C/script>');
-</script> -->
-
-<!-- <script src="./bundleNew.js" crossorigin="anonymous"></script> -->
+      <div class="preloader_figure"></div>
+      <p class="preloader_label">Loading</p>
+    </div>
+    <script src="/loader.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      document.write(
+        '\x3Cscript src="' + window.__OPTIONS__.game_bundle_source + '" crossorigin="anonymous">\x3C/script>',
+      );
+    </script>
     <script type="module" src="/main.js"></script>
-
-    <!-- <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"830d7b82389e2313","version":"2023.10.0","token":"da78c5c3d3444add894b2683f849c20e"}' crossorigin="anonymous"></script> -->
-
- <!-- <script defer src="./beacon" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"830d7b82389e2313","version":"2023.10.0","token":"da78c5c3d3444add894b2683f849c20e"}' crossorigin="anonymous"></script> -->
-
-</body>
   </body>
 </html>
