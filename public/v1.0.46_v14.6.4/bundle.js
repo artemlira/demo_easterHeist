@@ -44785,7 +44785,7 @@
             var t = new h();
             if ((r.Z._setPrefabs(M.prefabs), r.Z._setScenes(M.scenes), r.Z._setSounds(M.sounds), M.resources))
               for (var e in M.resources) r.Z.addResource(e, { metadata: { ...M.resourceImages, ...M.resources[e] } });
-            X.Texture.WHITE.baseTexture.resource.source.getContext('2d').fillRect(0, 0, 1, 1),
+            X.Texture.WHITE.baseTexture.resource.source.getContext('2d', { willReadFrequently: true }).fillRect(0, 0, 1, 1),
               r.Z.addTexture('EMPTY', X.Texture.EMPTY),
               r.Z.addTexture('WHITE', X.Texture.WHITE);
             var i = new l.Z();
@@ -56013,7 +56013,7 @@
                       (o.width = s),
                         (o.height = a),
                         (o._pixiId = 'canvas_' + (0, r.uid)()),
-                        o.getContext('2d').drawImage(e, 0, 0, i, n, 0, 0, s, a),
+                        o.getContext('2d', { willReadFrequently: true }).drawImage(e, 0, 0, i, n, 0, 0, s, a),
                         t._resolve(),
                         (t._resolve = null);
                     }
@@ -56665,7 +56665,7 @@
         function B() {
           var t = document.createElement('canvas');
           (t.width = 16), (t.height = 16);
-          var e = t.getContext('2d');
+          var e = t.getContext('2d', { willReadFrequently: true });
           return (e.fillStyle = 'white'), e.fillRect(0, 0, 16, 16), new L(new y(new S(t)));
         }
         function D(t) {
@@ -67965,7 +67965,7 @@
                 var r = i.toFontString(),
                   a = t.measureFont(r);
                 0 === a.fontSize && ((a.fontSize = i.fontSize), (a.ascent = i.fontSize));
-                var o = s.getContext('2d');
+                var o = s.getContext('2d', { willReadFrequently: true });
                 o.font = r;
                 for (
                   var l = (n ? t.wordWrap(e, i, s) : e).split(/(?:\r\n|\r|\n)/), h = new Array(l.length), p = 0, c = 0;
@@ -67984,7 +67984,7 @@
               (t.wordWrap = function (e, i, n) {
                 void 0 === n && (n = t._canvas);
                 for (
-                  var s = n.getContext('2d'),
+                  var s = n.getContext('2d', { willReadFrequently: true }),
                     r = 0,
                     a = '',
                     o = '',
@@ -68144,7 +68144,7 @@
           b = (function () {
             try {
               var t = new OffscreenCanvas(0, 0),
-                e = t.getContext('2d');
+                e = t.getContext('2d', { willReadFrequently: true });
               return e && e.measureText ? t : document.createElement('canvas');
             } catch (i) {
               return document.createElement('canvas');
@@ -68152,7 +68152,7 @@
           })();
         (b.width = b.height = 10),
           (y._canvas = b),
-          (y._context = b.getContext('2d')),
+          (y._context = b.getContext('2d', { willReadFrequently: true })),
           (y._fonts = {}),
           (y.METRICS_STRING = '|ÉqÅ'),
           (y.BASELINE_SYMBOL = 'M'),
@@ -68172,7 +68172,7 @@
                 (h.trim = new o.Ae()),
                 ((s = t.call(this, h) || this)._ownCanvas = l),
                 (s.canvas = n),
-                (s.context = s.canvas.getContext('2d')),
+                (s.context = s.canvas.getContext('2d', { willReadFrequently: true })),
                 (s._resolution = a.X.RESOLUTION),
                 (s._autoResolution = !0),
                 (s._text = null),
@@ -69115,7 +69115,7 @@
         var H = (function () {
           function t(t, e, i) {
             (this.canvas = document.createElement('canvas')),
-              (this.context = this.canvas.getContext('2d')),
+              (this.context = this.canvas.getContext('2d', { willReadFrequently: true })),
               (this.resolution = i || n.X.RESOLUTION),
               this.resize(t, e);
           }
@@ -69160,7 +69160,7 @@
             n,
             s = t.width,
             r = t.height,
-            a = t.getContext('2d'),
+            a = t.getContext('2d', { willReadFrequently: true }),
             o = a.getImageData(0, 0, s, r).data,
             l = o.length,
             h = { top: null, left: null, right: null, bottom: null },
@@ -77626,7 +77626,7 @@
                   f ||
                     (((f = document.createElement('canvas')).width = l),
                     (f.height = h),
-                    (m = f.getContext('2d')),
+                    (m = f.getContext('2d', { willReadFrequently: true })),
                     (g = new J.VL(f, { resolution: o })),
                     _.push(new J.xE(g)),
                     d.page.push({ id: _.length - 1, file: '' }));
